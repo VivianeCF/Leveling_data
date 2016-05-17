@@ -11,3 +11,4 @@ Table whith data clean and consistent
 
 Lectures
 https://core.ac.uk/download/files/79/62631.pdf
+http://unesdoc.unesco.org/images/0010/001010/101010eo.pdf
